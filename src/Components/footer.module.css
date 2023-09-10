@@ -1,0 +1,44 @@
+.footer-main {
+
+    background-color: black;
+}
+
+.footer-under {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1px;
+    color: #fff;
+    padding: 20px 0px 20px 0px;
+}
+
+.footer-logo {
+    width: 223px;
+    height: 75px;
+}
+
+.our {
+    color: #FFF;
+    /* font-family: Roboto; */
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.wrk {
+    color: #FFF;
+    /* font-family: Roboto; */
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.good {
+    color: #FFF;
+    /* font-family: Roboto; */
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
